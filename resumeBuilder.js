@@ -4,10 +4,10 @@ This is empty on purpose! Your code to build the resume will go here.
 var bio = {
         "name":"Manognya",
         "role":"front end web developer",
-        "contact":{
+        "contacts":{
             "email":"manognyaacharya95@gmail.com",
             "mobile":"8197888280",
-            "github":"ce",
+            "github":"https://github.com/manognyaacharya",
             "location":"mumbai"
         },
         "welcome message":"hello",
@@ -34,7 +34,7 @@ var work ={
     }
 var education={
 
-    "school": [{
+    "schools": [{
         "name": "KVM",
         "location": "Bengaluru",
         "majors": ["12th"],
